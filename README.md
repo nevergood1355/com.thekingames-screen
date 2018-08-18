@@ -1,0 +1,1 @@
+# com.thekingames-screen-manager
